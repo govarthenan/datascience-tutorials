@@ -1,0 +1,6 @@
+,name,age,skill,country,is_disabled
+a,Ananth,21,data science,Sri Lanka,True
+b,John,27,machine learning,United Kingdom,False
+c,Wong,24,front end designing,China,False
+d,Souza,33,UI and UX,Netherlands,False
+e,Jane,19,3D modelling,USA,True
