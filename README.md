@@ -1,2 +1,3 @@
-# realpython-pandas-dataframe-delightful
-RealPython's 'The Pandas DataFrame: Make Working With Data Delightful' represented in code. 
+# datascience-tutorials
+
+An attempt to convert data science tutorials to Jupyter Notebooks. Sources are articles all around the internet.
